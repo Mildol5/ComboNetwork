@@ -11,6 +11,6 @@ celeb.R
 network_tweets.R
  
  This is unfinished work. I was trying to see how connected twitter communities are. We would build this by seeing 
-  how many twitter followers two given users have in common. This was harder to build than anticipated. Mostly because 
+  how many twitter followers two given users have in common. This was harder to build than anticipated; mostly because 
   of API limitations. To pick up on the work, we need to build a matrix of connections between all users in a given 
   set. 
